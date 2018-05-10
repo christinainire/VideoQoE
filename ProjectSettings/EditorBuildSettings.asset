@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Video_burnt.unity
+    guid: 4958041a0bd7c2d408c8b78a0cdee7c7
+  - enabled: 1
+    path: Assets/Scenes/Video_foul.unity
+    guid: 34f49418faddce04da65bd89894aabd5
+  - enabled: 1
+    path: Assets/Scenes/Video_flowery.unity
+    guid: 125196047aac1b9429e6e6b15c05b211
+  - enabled: 1
+    path: Assets/Scenes/Video_fruity.unity
+    guid: d5ff9fea7b338f7438c2473a043e6895
+  - enabled: 1
+    path: Assets/Scenes/Video_spicy.unity
+    guid: 4afc892cedc576d4caf9696c4e7e00d0
+  - enabled: 1
+    path: Assets/Scenes/Video_resinous.unity
+    guid: 7f407528dbc467747bf86701d0180119
+  - enabled: 1
+    path: Assets/Scenes/WaitForBurnt.unity
+    guid: dd3fec927a3e48a4da764586c14212b0
+  - enabled: 1
+    path: Assets/Scenes/WaitForFruity.unity
+    guid: 352750c5c1a385b40969bb48fc8503af
+  - enabled: 1
+    path: Assets/Scenes/WaitForSpicy.unity
+    guid: 9986fa4a2b78e434b97e4518a522c886
+  - enabled: 1
+    path: Assets/Scenes/WaitForFlowery.unity
+    guid: d3e9d14dd02934f47a485df123dda8fe
+  - enabled: 1
+    path: Assets/Scenes/WaitForResinous.unity
+    guid: eabafe08e3a4d8449a15d8443c262c2d
+  - enabled: 1
+    path: Assets/Scenes/WaitForFoul.unity
+    guid: 06ece90226a9e574f99793c2d5626f95
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: dd6272af37156894182cf8465327fa69

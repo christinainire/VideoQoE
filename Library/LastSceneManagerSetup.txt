@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/Video_burnt.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/WaitForBurnt.unity
+  isLoaded: 1
+  isActive: 0
